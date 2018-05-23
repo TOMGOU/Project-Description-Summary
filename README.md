@@ -13,6 +13,7 @@ NO.1 SPEEDM MOBILE END【recently tencent official project】
 
 05_project_description:
 
+++++++++++++++++++++++++++++++++++++++++++++
 
 NO.2 DRAGON MOBILE&PC END【recently tencent official project】
 
@@ -28,6 +29,7 @@ NO.2 DRAGON MOBILE&PC END【recently tencent official project】
 
 05_project_description:
 
+++++++++++++++++++++++++++++++++++++++++++++
 
 NO.3 TGC MOBILE&PC END【one year ago tencent activity project】
 
@@ -43,6 +45,7 @@ NO.3 TGC MOBILE&PC END【one year ago tencent activity project】
 
 05_project_description:
 
+++++++++++++++++++++++++++++++++++++++++++++
 
 NO.4 HX mini_SNS END【recently tencent mini SNS project】
 
@@ -56,7 +59,7 @@ NO.4 HX mini_SNS END【recently tencent mini SNS project】
 
 05_project_description:
 
-
+++++++++++++++++++++++++++++++++++++++++++++
 
 NO.5 IWGAME MOBILE&PC END【recently tencent H5 project】
 
@@ -71,6 +74,7 @@ NO.5 IWGAME MOBILE&PC END【recently tencent H5 project】
 05_project_description:
     for Game Embedded Animation, project contain 4 pages, first preloading, second gka, third video, fourth parallax
 
+++++++++++++++++++++++++++++++++++++++++++++
 
 NO.6 YM MOBILE&PC END【recently tencent H5 project】
 
@@ -87,6 +91,7 @@ NO.6 YM MOBILE&PC END【recently tencent H5 project】
 05_project_description:
     project contain 8 pages, 72 subjects 76 story line and 76results, and svg through all pages
 
+++++++++++++++++++++++++++++++++++++++++++++
 
 NO.7 SPEEDM PY MOBILE&PC END【recently tencent H5 project】
 
@@ -100,6 +105,8 @@ NO.7 SPEEDM PY MOBILE&PC END【recently tencent H5 project】
 
 05_project_description:
 
+++++++++++++++++++++++++++++++++++++++++++++
+
 NO.8 LZG MOBILE&PC END【recently tencent H5 project】
 
 01_skill: svg/vue/ajax
@@ -112,6 +119,7 @@ NO.8 LZG MOBILE&PC END【recently tencent H5 project】
 
 05_project_description:
 
+++++++++++++++++++++++++++++++++++++++++++++
 
 NO.9 DRAGON TEST MOBILE END【recently tencent VUE&WECHAT project】
 
@@ -125,6 +133,7 @@ NO.9 DRAGON TEST MOBILE END【recently tencent VUE&WECHAT project】
 
 05_project_description:
 
+++++++++++++++++++++++++++++++++++++++++++++
 
 NO.10 WEIJU GAME MOBILE END【recently tencent VUE&WECHAT project】
 
